@@ -7,7 +7,8 @@ They can download the cards as a PDF with the styling completed in such a way th
 
 # Next Steps
 
-Improve UX. Generate the PDF document on a separate page rather than rendering onto the same page as the form  
+Improve UX  
+- Generate the PDF document on a separate page rather than rendering onto the same page as the form  
 
 Create a full scale bingo game  
 - User can log in and have saved games
