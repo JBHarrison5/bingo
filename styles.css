@@ -1,0 +1,67 @@
+.hidden {
+    display: none;
+}
+
+.cards {
+    width: 29.3cm;
+    display: flex;
+    flex-flow: wrap;
+    margin: 0;
+}
+
+table {
+    border: black 2px solid;
+    margin-top: 0.6cm;
+    height: 2.4cm;
+    width: 9cm;
+    color: black;
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+td {
+    margin: 0;
+    width: 1cm;
+    text-align: center;
+    border: black 1px solid;
+}
+
+.sheet {
+    width: 12cm;
+    height: 21cm;
+    margin: 0;
+    border-right: black 3px dotted;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(207, 214, 214, 0.9);
+}
+
+img {
+    width: 2cm;
+    height: 2cm;
+    margin: 0 1rem;
+}
+
+.sheetHeading {
+    height: 2.4cm;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+h3 {
+    font-family: Tahoma, sans-serif;
+    font-size: 24pt;
+}
+
+.nonNum {
+    background-color: cadetblue;
+    color: cadetblue;
+}
